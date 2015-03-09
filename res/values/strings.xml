@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">小木社团</string>
+    <string name="loading_logo">发现更多精彩</string>
+
+    <string name="et_login_user">账号</string>
+    <string name="et_login_pin">密码</string>
+    <string name="btn_login">登录</string>
+    
+    <string name="title_myproject">我的项目</string>        <!-- 我的项目标题 -->
+    
+    <string name="menu_username">我是小木</string>        <!-- 用户姓名 -->
+    <string name="menu_userlocate">华南师范大学</string>          <!-- 用户位置 -->
+    <string name="menu_userselect1">我的项目</string>
+    <string name="menu_userselect2">我的任务</string>
+    <string name="menu_userselect3">人员列表</string>
+    
+    <string  name="myproject_tab1">全部项目</string>
+    <string  name="myproject_tab2">我参与的</string>
+    <string  name="myproject_tab3">我创建的</string>
+    
+    <string  name="mytask_tab1">全部任务</string>
+    <string  name="mytask_tab2">已完成的</string>
+    <string  name="mytask_tab3">未完成的</string>
+    
+    <string  name="peoplelist_tab1">全部</string>
+    <string  name="peoplelist_tab2">部长</string>
+    <string  name="peoplelist_tab3">干事</string>
+    
+    <string name="list_theme">主题</string>
+    <string name="list_deadline">截止时间</string>
+    <string name="list_declare">发布状态</string>
+    <string name="list_complete">完成状态</string>
+    
+    <string name="item_no_edit">未编辑</string>
+    <string name="default_user">小木用户</string>
+    
+    <string name="item_theme">主题</string>
+    <string name="item_deadline">截止时间</string>
+    <string name="item_context">任务内容</string>
+    <string name="item_people">分配人员</string>
+    
+    <string name="btn_declare">发布任务</string>
+</resources>
